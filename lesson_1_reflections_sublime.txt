@@ -1,7 +1,13 @@
-THIS IS LESSON NUMBER 1 OF UDACITY ON USE OF GIT
+Redo of lesson number 1 of Udacity
+
+A. 
+B. 
+C.
+
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
-
+new list
+A, B, C, D.
 0.  	git --version: shows git version
 0.1 	git clone followed with .git address == allows me to clone all revisions from web address
 0.2 	git config --global color.ui auto == sets the output to color output.
