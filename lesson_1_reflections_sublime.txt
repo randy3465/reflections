@@ -1,0 +1,49 @@
+THIS IS LESSON NUMBER 1 OF UDACITY ON USE OF GIT
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+0.  	git --version: shows git version
+0.1 	git clone followed with .git address == allows me to clone all revisions from web address
+0.2 	git config --global color.ui auto == sets the output to color output.
+0.3  	git log <<in the correct directory>> == shows history
+0.4 	git diff <<new version old version>> == finds differences  
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+0.3  	git log == shows history 
+ 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+0.3  	git log <<in the correct directory>> == shows history
+0.4 	git diff <<new version old version>> == finds differences  
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+git repository
+git commit
+git diff
+git clone ==> takes existing repos. and creates a new one.
+git checkout 'commit id' == reset all of the files to the time when that commit was made
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+

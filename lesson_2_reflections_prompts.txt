@@ -1,0 +1,9 @@
+commands
+01. git init == initializes git
+brings to: randy (master #)
+02. git status == which have changed since last
+there is a working directory, an empty repository and a staging repository.
+you can use staging repository before commiting.
+
+03. git add filename ==  adds the file to staging area before commiting.
+
