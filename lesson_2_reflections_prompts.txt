@@ -7,3 +7,8 @@ you can use staging repository before commiting.
 
 03. git add filename ==  adds the file to staging area before commiting.
 
+Now that you’ve added a file to the staging area (or maybe multiple files!), go add the following question and your thoughts on it to your lesson_2_reflections file:
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+When you've updated your document, click "Next" and Caroline will go over how to commit the changes you’ve added to the staging area.
