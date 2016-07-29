@@ -1,1 +1,14 @@
 connecting and saving to remote repository
+Lesson-3-Friday
+git for windows:
+configure for your password with command ==>
+$ git config --global credential.helper wincred
+First make a new empty repository called 'reflections' on github web. 
+in git command line after reflections: git remote ==> check whats on remote
+$ git remote add origin url ==> get url from github web
+$ git remote ==> will show that origin was created
+$ git remote -v {-v stands for verbose} ==> will output the url for 'push' and 'pull'
+$ git push origin master ==> needs the name of the remote i need to send changes to (origin) and name of local branch i want to send (master)
+after making a new commit on the github web, make new commit on web. 
+then to pull it into the local git folder, use 'pull' command
+this command wll take arguments : name on the remote 'origin' and the branch name 'master' on the remote in github website.
